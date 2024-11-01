@@ -1,0 +1,69 @@
+[00:00:018] Flax.Build 1.0.0
+[00:00:021]   Arguments: -log -mutex -genproject
+[00:00:021]   Workspace: C:\Users\Isaac\Desktop\HorrorGame
+[00:00:021]   Engine: C:\Program Files (x86)\Flax\Flax_1.9
+[00:00:021]   .NET 8.0.6
+[00:00:037] Loading project file from "C:\Users\Isaac\Desktop\HorrorGame\HorrorGame.flaxproj"...
+[00:00:112] Loading project file from "C:\Program Files (x86)\Flax\Flax_1.9\Flax.flaxproj"...
+[00:00:115] Loaded project Flax, version 1.9.6605
+[00:00:115] Loaded project HorrorGame, version 1.0
+[00:00:296] Engine build version: 1.9.6605
+[00:02:309] Assembler time: 1.8760499s
+[00:02:315] Generating project files...
+[00:02:331] Found Android SDK at C:\Users\Isaac\AppData\Local\Android\Sdk
+[00:02:332] Missing Linux Toolchain. Cannot build for Linux platform.
+[00:02:338] Found Windows SDK v10_0_22621_0 at C:\Program Files (x86)\Windows Kits\10\
+[00:02:375] Found VisualStudio2022 at C:\Program Files\Microsoft Visual Studio\2022\Community
+[00:02:379] Found Windows toolset v144 at C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807
+[00:02:431] Missing VULKAN_SDK environment variable. Cannot build Vulkan.
+[00:02:431] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:02:441] Found the following .NET SDK versions: 8.0.302, 7.0.306, 7.0.101
+[00:02:444] Found the following .NET runtime versions: 8.0.6, 7.0.9, 7.0.1
+[00:02:450] Using .NET SDK 8.0.302, runtime 8.0.6 (C:\Program Files\dotnet\)
+[00:02:452]   - Host Runtime for Windows x64
+[00:02:452]   - Host Runtime for Windows x86
+[00:02:452]   - Host Runtime for Windows ARM64
+[00:02:475] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:02:511] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:02:541] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:02:564] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:02:585] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:02:606] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:02:682] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:02:759] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:02:848] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:02:903] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:02:953] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:03:001] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:03:216] Game -> C:\Users\Isaac\Desktop\HorrorGame\Source\Game.csproj
+[00:03:231] Saved file to C:\Users\Isaac\Desktop\HorrorGame\Source\Game.csproj
+[00:03:233] Project BuildScripts -> C:\Users\Isaac\Desktop\HorrorGame\Cache\Projects\BuildScripts.csproj
+[00:03:238] Saved file to C:\Users\Isaac\Desktop\HorrorGame\Cache\Projects\BuildScripts.csproj
+[00:03:238] Solution -> C:\Users\Isaac\Desktop\HorrorGame\HorrorGame.sln
+[00:03:254] Saved file to C:\Users\Isaac\Desktop\HorrorGame\HorrorGame.sln
+[00:03:265] Saved file to C:\Users\Isaac\Desktop\HorrorGame\HorrorGame.sln.DotSettings.user
+[00:03:268] Saved file to C:\Users\Isaac\Desktop\HorrorGame\Cache\Projects\Flax.Build.CSharp.SkipBuild.targets
+[00:03:272] Saved file to C:\Users\Isaac\Desktop\HorrorGame\Cache\Projects\Flax.Build.CSharp.targets
+[00:03:296] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:03:320] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:03:343] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:03:359] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:03:381] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:03:397] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:03:442] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:03:482] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:03:510] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:03:533] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:03:566] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:03:585] No x64 host compiler toolchain found in C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe or C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\Hostx64\arm64\cl.exe
+[00:03:818] Game -> C:\Users\Isaac\Desktop\HorrorGame\Source\Game.csproj
+[00:03:820] Skipped saving file to C:\Users\Isaac\Desktop\HorrorGame\Source\Game.csproj
+[00:03:820] Project BuildScripts -> C:\Users\Isaac\Desktop\HorrorGame\Cache\Projects\BuildScripts.csproj
+[00:03:821] Skipped saving file to C:\Users\Isaac\Desktop\HorrorGame\Cache\Projects\BuildScripts.csproj
+[00:03:821] Solution -> C:\Users\Isaac\Desktop\HorrorGame\HorrorGame.sln
+[00:03:824] Skipped saving file to C:\Users\Isaac\Desktop\HorrorGame\HorrorGame.sln
+[00:03:830] Skipped saving file to C:\Users\Isaac\Desktop\HorrorGame\HorrorGame.sln.DotSettings.user
+[00:03:831] Skipped saving file to C:\Users\Isaac\Desktop\HorrorGame\Cache\Projects\Flax.Build.CSharp.SkipBuild.targets
+[00:03:831] Skipped saving file to C:\Users\Isaac\Desktop\HorrorGame\Cache\Projects\Flax.Build.CSharp.targets
+[00:03:832] Total time: 00:00:03.8549754
+[00:03:832] End.
