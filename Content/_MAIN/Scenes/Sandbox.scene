@@ -106,6 +106,45 @@
 			"TypeName": "FlaxEngine.AudioListener",
 			"ParentID": "5037759d49557e65a7b9cb840e2bd1fb",
 			"Name": "Audio Listener"
+		},
+		{
+			"ID": "20b49941464d2cfac9872aadd3ccf7df",
+			"TypeName": "FlaxEngine.CharacterController",
+			"ParentID": "61d4b54142cd410e4a7403871a2c83cb",
+			"Name": "Player",
+			"Transform": {
+				"Translation": {
+					"X": 0.0,
+					"Y": 210.0,
+					"Z": 0.0
+				}
+			},
+			"Radius": 25.0,
+			"Height": 50.0
+		},
+		{
+			"ID": "f1f60bc846a88bb7197728ad4cac8227",
+			"TypeName": "FlaxEngine.StaticModel",
+			"ParentID": "20b49941464d2cfac9872aadd3ccf7df",
+			"Name": "StaticModel",
+			"Transform": {
+				"Translation": {
+					"X": 0.0,
+					"Y": -50.0,
+					"Z": 0.0
+				}
+			},
+			"Model": "3f82e57744f57c28285150b646ad2198",
+			"Buffer": {
+				"Entries": [
+					{
+						"Material": "00000000000000000000000000000000",
+						"ShadowsMode": 3,
+						"Visible": true,
+						"ReceiveDecals": true
+					}
+				]
+			}
 		}
 	]
 }
